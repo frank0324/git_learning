@@ -1,4 +1,5 @@
 cocos2d-x
+git_learning
 =========
 
 [![Build Status](https://travis-ci.org/cocos2d/cocos2d-x.png?branch=v2)](https://travis-ci.org/cocos2d/cocos2d-x)
