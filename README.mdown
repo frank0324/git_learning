@@ -1,6 +1,5 @@
-cocos3d-x
+cocos4d-x
 git_learning_02 modify 002
-=========
 
 [![Build Status](https://travis-ci.org/cocos2d/cocos2d-x.png?branch=v2)](https://travis-ci.org/cocos2d/cocos2d-x)
 
@@ -16,7 +15,7 @@ Supported Platforms
    * Android: stable, well tested on 2.0~4.x, ndk r5 ~ r8. If you use gles20
      branch or cocos2d-x v2.0 above, only android 2.3 and higher are supported
    * Windows Phone 8 and Windows Store Apps (WinRT)
-   * Bada: cocos2d-x v1.x supports Bada SDK 1.0 & 2.0. Bada support was
+  * Bada: cocos2d-x v1.x supports Bada SDK 1.0 & 2.0. Bada support was
      deprecated since cocos2d-x v2.0.
    * BlackBerry: stable, contributed by staffs in RIM, supports Playbook & BB10.
    * Marmalade: stable since cocos2d-x v0.11.0, contributed by Marmalade's staff.
