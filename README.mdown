@@ -1,4 +1,4 @@
-cocos2d-x
+cocos3d-x
 git_learning_02 modify 002
 =========
 
